@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+pyttsx3
+SpeechRecognition
+pyaudio
+fpdf2
+torch
+openai-whisper
+git+https://github.com/openai/CLIP.git
+lapx
