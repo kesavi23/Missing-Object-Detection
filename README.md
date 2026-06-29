@@ -125,15 +125,15 @@ screenshots/detection.png
 
 ## 👨‍💻 Author
 
-**Kisshore M**
+**Kesavi S**
 
 Computer Science Engineering Student
 
 GitHub:
-https://github.com/kisshore-m
+https://github.com/kesavi23
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/kesavi-s-766516286
 
 ---
 
